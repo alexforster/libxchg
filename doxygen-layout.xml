@@ -1,0 +1,8 @@
+<doxygenlayout version="1.0">
+  <navindex>
+    <tab type="mainpage" visible="yes" title="README"/>
+    <tab type="classlist" visible="yes" title="Documentation" intro="Choose a structure to view its documentation."/>
+    <tab type="user" visibile="yes" title="Examples" url="md_examples.html"/>
+    <tab type="user" visibile="yes" title="Github" url="https://github.com/alexforster/libxchg"/>
+  </navindex>
+</doxygenlayout>

@@ -1,0 +1,15 @@
+*.o
+build
+html
+
+bin/*
+!bin/.gitkeep
+lib/*
+!lib/.gitkeep
+tests/fuzz/findings/*
+!tests/fuzz/findings/.gitkeep
+
+# JetBrains
+.idea
+cmake-*
+

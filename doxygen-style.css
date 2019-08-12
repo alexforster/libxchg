@@ -1,0 +1,71 @@
+body {
+    padding: 0 0 3em 0;
+}
+
+body, table, div, p, dl, p.reference, p.definition, .title, #powerTip div, table.directory, .tabs, .tabs2, .tabs3 {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+#titlearea {
+    display: none;
+}
+
+div.summary {
+    visibility: hidden;
+}
+
+div.headertitle {
+    padding: 0.5em 3em;
+}
+
+div.directory {
+    border-top: unset;
+    border-bottom: unset;
+}
+
+.directory td, .directory td.entry, .directory td.desc {
+    padding-top: 1em;
+    padding-bottom: 0.5em;
+}
+
+.directory tr, .directory tr.even {
+    background-color: unset;
+}
+
+div.contents {
+    margin-top: 2em;
+    margin-left: 3em;
+    margin-right: 3em;
+}
+
+.mdescLeft, .mdescRight, .memItemLeft, .memItemRight, .memTemplItemLeft, .memTemplItemRight, .memTemplParams {
+    background-color: unset;
+    border: none;
+    margin: 4px;
+    padding: 6px 0 3px 8px;
+}
+
+h2.memtitle {
+    background-color: #ffffff;
+    background-image: unset;
+}
+
+div.memproto {
+    background-color: #ffffff;
+}
+
+div.memdoc {
+    background-image: unset;
+}
+
+div.fragment {
+    padding: 5pt;
+}
+
+div.line {
+    font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
+
+.footer {
+    display: none;
+}
